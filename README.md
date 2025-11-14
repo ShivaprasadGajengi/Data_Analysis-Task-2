@@ -5,7 +5,7 @@
 
  📸 Dashboard Preview
 
-![Swiggy Sales Dashboard Preview](./img/Screenshot%20(6).png)
+![Swiggy Sales Dashboard Preview](./images/Screenshot%20(6).png)
 
 
 📊 Key Features & Analysis
