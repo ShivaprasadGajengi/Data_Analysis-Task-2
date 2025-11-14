@@ -23,17 +23,17 @@ This dashboard provides a comprehensive look at sales data, focusing on several 
 
 
 
-Created a card - Number of unique orders
+1. Created a card - Number of unique orders
 
-Clustered bar chart - Total revenue by restaurent
+2. Clustered bar chart - Total revenue by restaurent
 
-Table - to show popular Items and Order count
+3. Table - to show popular Items and Order count
 
-Clustered column chart - Total number of item by food type
+4. Clustered column chart - Total number of item by food type
 
-Guage - Number of deliveries on time
+5. Guage - Number of deliveries on time
 
-pie-chart - Total revenue by year
+6. pie-chart - Total revenue by year
 
 
 🚀 How to Use
