@@ -4,8 +4,8 @@
  The goal is to provide actionable insights into sales performance, order trends, and other key business metrics.
 
  📸 Dashboard Preview
-images/Screenshot (6).png
 
+![Swiggy Sales Dashboard Preview](./img/Swiggy-Dashboard.png)
 
 
 📊 Key Features & Analysis
